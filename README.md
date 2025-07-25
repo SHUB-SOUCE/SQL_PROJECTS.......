@@ -1,8 +1,8 @@
 # SQL_PROJECTS
-
+---
 
 ## SQL_PROJECT1
----
+
 
 ## Personal Finance Tracker
 
@@ -46,7 +46,6 @@ Includes 9 optimized SQL queries with real-world applications like:
 
 This project provides a complete SQL-based backend system designed to track and analyze user engagement on a social media platform. It includes realistic schema design, populated data, and advanced SQL logic such as views, stored procedures, and triggers.
 
----
 
 ### Project Objectives
 
@@ -55,7 +54,7 @@ This project provides a complete SQL-based backend system designed to track and 
 - Generate insights using SQL views, functions, and stored procedures.
 - Maintain data integrity and automate updates using triggers.
 
----
+
 
 ### Database Schema
 
@@ -69,7 +68,6 @@ This project provides a complete SQL-based backend system designed to track and 
 - One-to-many relationships from Users to Posts, and from Posts to Likes/Comments.
 - Foreign keys with ON DELETE CASCADE for referential integrity.
 
----
 
 ### Features
 
@@ -84,7 +82,7 @@ This project provides a complete SQL-based backend system designed to track and 
   - TopEngagers: Highlights users who interact the most.
   - CreatorEngagementStats: Summarizes user contribution and impact.
 
----
+
 
 ### Example Queries
 
@@ -99,6 +97,8 @@ CALL GetMonthlyEngagement(2025, 6);
 SELECT GetPostEngagement(1) AS EngagementScore;
 
 ```
+
+---
 ## CREATED BY SHUBHDEEP
 
 
