@@ -1,5 +1,5 @@
 ---
-## SQL_PROJECT1
+## SQL_PROJECT 1
 ---
 
 ## Personal Finance Tracker
