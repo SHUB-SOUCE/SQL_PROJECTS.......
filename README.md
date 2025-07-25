@@ -1,9 +1,6 @@
 ---
-# SQL_PROJECTS
----
-
 ## SQL_PROJECT1
-
+---
 
 ## Personal Finance Tracker
 
