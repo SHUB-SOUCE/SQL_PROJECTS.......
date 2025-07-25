@@ -46,12 +46,13 @@ This project provides a complete SQL-based backend system designed to track and 
 ```sql
 -- View: Top 5 Most Liked Posts
 SELECT * FROM TopLikedPosts LIMIT 5;
-```
----
-```
 
 -- Monthly Engagement Report
 CALL GetMonthlyEngagement(2025, 6);
 
 -- Engagement Score of Post ID 1
 SELECT GetPostEngagement(1) AS EngagementScore;
+```
+---
+
+
