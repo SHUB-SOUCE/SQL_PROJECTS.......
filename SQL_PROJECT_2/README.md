@@ -1,7 +1,7 @@
 ---
-# SQL_PROJECT2
+# SQL_PROJECT 2
 ---
-## Social Media Analytics Backend – SQL Project
+## Social Media Analytics Backend 
 
 This project provides a complete SQL-based backend system designed to track and analyze user engagement on a social media platform. It includes realistic schema design, populated data, and advanced SQL logic such as views, stored procedures, and triggers.
 
